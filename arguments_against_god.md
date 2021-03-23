@@ -1,4 +1,3 @@
-<!--- Source: https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/arguments-against-the-existence-of-god-overview/ --->
 # Arguments Against the Existence of God
 Each of the arguments below aims to show that a particular set of gods does not exist—by demonstrating them to be inherently meaningless, [contradictory](https://en.wikipedia.org/wiki/Proof_by_contradiction), or at odds with known [scientific](https://en.wikipedia.org/wiki/Science) or [historical facts](https://en.wikipedia.org/wiki/History)—or that there is insufficient proof to say that they do exist.
 
@@ -54,6 +53,12 @@ See also: [Anecdotal evidence](https://en.wikipedia.org/wiki/Anecdotal_evidence)
 
 Similar to the [subjective](https://en.wiktionary.org/wiki/subjective) arguments for the existence of God, subjective arguments against the supernatural mainly rely on the testimony or experience of witnesses, or the propositions of a revealed religion in general.
 
-    The witness argument gives credibility to personal witnesses, contemporary and from the past, who disbelieve or strongly doubt the existence of God.
-    The conflicted religions argument notes that many religions give differing accounts as to what God is and what God wants; since all the contradictory accounts cannot be correct, many if not all religions must be incorrect.
-    The disappointment argument claims that if, when asked for, there is no visible help from God, there is no reason to believe that there is a God.
+- The witness argument gives credibility to personal witnesses, contemporary and from the past, who disbelieve or strongly doubt the existence of God.
+
+- The conflicted religions argument notes that many religions give differing accounts as to what God is and what God wants; since all the contradictory accounts cannot be correct, many if not all religions must be incorrect.
+
+- The disappointment argument claims that if, when asked for, there is no visible help from God, there is no reason to believe that there is a God.
+
+## Sources
+
+- https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/arguments-against-the-existence-of-god-overview/
