@@ -1,5 +1,5 @@
 # Arguments Against the Existence of God
-Each of the arguments below aims to show that a particular set of gods does not exist—by demonstrating them to be inherently meaningless, [contradictory](https://en.wikipedia.org/wiki/Proof_by_contradiction), or at odds with known [scientific](https://en.wikipedia.org/wiki/Science) or [historical facts](https://en.wikipedia.org/wiki/History)—or that there is insufficient proof to say that they do exist.
+Each of the arguments below aims to show that a particular set of gods does not exist — by demonstrating them to be inherently meaningless, [contradictory](https://en.wikipedia.org/wiki/Proof_by_contradiction), or at odds with known [scientific](https://en.wikipedia.org/wiki/Science) or [historical facts](https://en.wikipedia.org/wiki/History) — or that there is insufficient proof to say that they do exist.
 
 ## Empirical Arguments
 Empirical arguments depend on knowledge acquired by means of observation or experimentation to prove their conclusions.
