@@ -1,7 +1,5 @@
 # Religion and Spirituality
-
 ## The Existence of God
-
 ### Definitions
 It is important to clarify the definitions being used for specific terms in order to avoid confusion. This list consists of the definitions I use for each of these terms.
 
@@ -18,7 +16,7 @@ A person who believes that nothing is known or can be known of the existence or 
 A person who believes in the existence of a god or gods, specifically of a creator who intervenes in the universe.
 
 **God**  
-The supreme Governor of the universe and the Father of mankind. There are three separate persons in the Godhead: the Father, the Son, and the Holy Ghost. The Father and the Son have tangible bodies of flesh and bone and that the Holy Ghost is a personage of spirit without flesh and bone. [(Taken from the Mormon definition of God found here)](https://www.churchofjesuschrist.org/study/scriptures/bd/god?lang=eng)
+The supreme Governor of the universe and the Father of mankind. There are three separate persons in the Godhead: the Father, the Son, and the Holy Ghost. The Father and the Son have tangible bodies of flesh and bone and that the Holy Ghost is a personage of spirit without flesh and bone.<sup>1</sup>
 
 **Worldview**  
 A particular philosophy of life or conception of the world.
@@ -28,7 +26,10 @@ I am a strong atheist, meaning I believe there is enough evidence to make an ass
 
 See a list of arguments against god [here.](./atheism/arguments_against_god.md)
 
-### My Worldview
+## Worldviews
 I am currently in the process of determining my worldview and which philosophy it best aligns with.
 
 See [this document](./worldviews/worldviews.md) that outlines some of my favorite philosophical worldviews.
+
+## Sources
+1. https://www.churchofjesuschrist.org/study/scriptures/bd/god?lang=eng
