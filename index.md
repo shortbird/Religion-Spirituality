@@ -26,9 +26,9 @@ A particular philosophy of life or conception of the world.
 ### My belief regarding god
 I am a strong atheist, meaning I believe there is enough evidence to make an assertion against the existence of a god or gods. I believe that it is impossible to actually *disprove* god, but there is sufficient evidence to assert that there is no god.
 
-See a list of arguments against god [here.](/arguments_against_god.md)
+See a list of arguments against god [here.](./atheism/arguments_against_god.md)
 
 ### My Worldview
 I am currently in the process of determining my worldview and which philosophy it best aligns with.
 
-See [this document](/worldviews.md) that outlines some of my favorite philosophical worldviews.
+See [this document](./worldviews/worldviews.md) that outlines some of my favorite philosophical worldviews.
